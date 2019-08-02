@@ -4,4 +4,7 @@ threthold 阈值
 correspond 对应  
 digit 数字  
 two-digit 两位数  
-repersent 代表
+repersent 代表  
+indirect 间接  
+hence 于是  
+guarantee  保证
