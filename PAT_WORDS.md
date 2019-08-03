@@ -7,4 +7,6 @@ two-digit 两位数
 repersent 代表  
 indirect 间接  
 hence 于是  
-guarantee  保证
+guarantee  保证  
+distinct  不同  
+traversal 遍历
