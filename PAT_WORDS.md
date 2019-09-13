@@ -11,3 +11,4 @@ guarantee  保证
 distinct  不同  
 traversal 遍历  
 prime 素数
+test 测试
